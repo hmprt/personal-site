@@ -60,7 +60,7 @@ onMount(() => {
         <div class='flex flex-col w-full h-full p-4 text-start text-xl md:text-5xl items-start gap-4'>
             <div transition:fade={{duration: 500}}>My name is <span class='text-red-400'>Harvey Michael Pratt</span></div>
             <div transition:fade={{duration:500, delay: 2000}}>I'm a founder, artist and computer programmer</div>
-            <div transition:fade={{duration:500, delay: 3500}}>In 2023 I founded <span class='text-red-400'> Promenade </span>to build AI games</div>
+            <div transition:fade={{duration:500, delay: 3500}}>In 2023 I founded <a class='underline text-blue-300' href='https://thepromenade.ai'>The Promenade</a> to build AI games</div>
             <div transition:fade={{duration:500, delay: 5500}}>My last project was <a class='underline text-blue-300' href='https://freenft.com/about'>FreeNFT</a></div>
             <div transition:fade={{duration:500, delay: 7000}}><a class='underline text-blue-400' href='https://twitter.com/hmprt_'>Follow me </a> to stay up to date</div>
             </div>

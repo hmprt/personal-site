@@ -62,7 +62,7 @@ onMount(() => {
             <div transition:fade={{duration:500, delay: 2000}}>I'm a founder, artist and computer programmer</div>
             <div transition:fade={{duration:500, delay: 3500}}>In 2023 I founded <a class='underline text-blue-300' href='https://thepromenade.ai'>The Promenade</a> to build AI games</div>
             <div transition:fade={{duration:500, delay: 5500}}>My last project was <a class='underline text-blue-300' href='https://freenft.com/about'>FreeNFT</a></div>
-            <div transition:fade={{duration:500, delay: 7000}}><a class='underline text-blue-400' href='https://twitter.com/hmprt_'>Follow me </a> to stay up to date</div>
+            <div transition:fade={{duration:500, delay: 7000}}><a class='underline text-blue-400' href='https://twitter.com/npceo_'>Follow me </a> to stay up to date</div>
             </div>
         {/if}
         </div>

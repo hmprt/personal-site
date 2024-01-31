@@ -58,7 +58,7 @@ onMount(() => {
      showSplash = true
      setTimeout(() => {
          showSplash = false
-     }, 2000)
+     }, 1500)
     setTimeout(() => {
         showContent = true
     }, 3500)
